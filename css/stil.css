@@ -1,0 +1,70 @@
+body {background-color: #EEE;}
+			#wrapper {
+				background-color: #AAA;
+				padding: 24px;
+				width:692px; /*750-2*5-2*24*/
+				border: 5px solid #000;
+				margin: 0 auto;
+			}
+			header {
+				background-color: #FFF;
+				border: 2px solid #000;
+				padding-left: 24px;
+				margin-bottom: 24px;
+				height: 116px;  /*120-2*2*/
+			}
+			header img {width:80px;}
+			#stavke {
+				background-color: #FFF;
+				padding: 24px;
+				border: 2px solid #000;
+				width: 258px;  /*310-2*2-2*24*/
+				height: 396px;  /*448-2*2-2*24*/
+				margin-right: 24px;
+				margin-bottom: 24px;
+				float: left;
+			}
+			#stavke img {
+				width: 180px;
+			}
+    h1 {margin-top:0;}
+
+    #slika {
+      background-color: #CCC;
+      border: 1px dashed #000;
+      padding: 10px;
+      height: 202px;
+      width: 336px; /*358-2*2-2*10*/
+      float: left;
+      text-align: center;
+    }
+
+    #slika img{
+      height: 202px;
+    }
+
+
+
+			.baner {
+				background-color: #CCC;
+				height: 110px; /*112-2*1*/
+				width: 356px;   /*358-2*2*/
+				border: 1px dashed #000;
+				float: left;
+			}
+			#tekst {
+				background-color: #FFF;
+				border: 2px solid #000;
+				padding: 24px;
+				margin-bottom: 24px;
+				height: 128px; /*180-2*2-2*24*/
+				clear: both;
+			}
+			#tekst p {margin-top:0px;}
+
+			footer {
+				background-color: #FFF;
+				border: 2px solid #000;
+				padding-left: 24px;
+				height: 52px;  /*56-2*2*/
+			}
