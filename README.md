@@ -10,7 +10,8 @@ Educational webpage about the regular polyhedron – Octahedron.
 - External CSS styling
 
 ## Live Demo
-https://mialekic87666.github.io/octahedron-project/
+https://anapekic.github.io/octahedron-project/
+
 
 ## Tech
 - HTML5
